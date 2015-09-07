@@ -15,7 +15,7 @@ header h1 {
 	width: 40px;
 	height: 40px;
 }
-`
+
 div {
 	margin: 0 auto;
 	width: 25%;
@@ -23,5 +23,40 @@ div {
 
 .container {
 	text-align: center;
-	width: 400px;
+	width: 650px;
 }
+
+.container h4 {
+	color: #000000;
+}
+
+section .name {
+	text-align: center;
+	width: 100%;
+}
+
+#name img {
+	width: 175px;
+	height: 75px;
+	position: relative;
+	right: 50px;
+}
+
+.favecolor {
+	color: white;
+	text-align: center;
+}
+
+#color img {
+	width: 175px;
+	height: 75px;
+	position: relative;
+	right: 50px;
+}
+
+aside section li {
+	position: relative;
+	right: 30px;
+	list-style-type: square;
+}
+`
